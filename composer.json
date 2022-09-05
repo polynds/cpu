@@ -2,17 +2,16 @@
   "name": "polynds/kpc",
   "autoload": {
     "psr-4": {
-      "KPC\\": "/src"
-    },
-    "files": [
-      "Utils/functions.php"
-    ]
+      "KPC\\": "/src",
+      "Test\\": "tests/"
+    }
   },
   "require": {
     "php": ">=7.4"
   },
   "require-dev": {
     "friendsofphp/php-cs-fixer": "^3.0",
-    "phpstan/phpstan": "^1.0"
+    "phpstan/phpstan": "^1.0",
+    "phpunit/phpunit": "^9.5"
   }
 }
