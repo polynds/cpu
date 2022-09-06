@@ -4,7 +4,7 @@ declare(strict_types=1);
 /**
  * happy coding.
  */
-namespace KPC\Circuit\Gate;
+namespace KPC\Components\Gate;
 
 interface Gate
 {

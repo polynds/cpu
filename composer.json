@@ -2,7 +2,7 @@
   "name": "polynds/kpc",
   "autoload": {
     "psr-4": {
-      "KPC\\": "/src",
+      "KPC\\": "src/",
       "Test\\": "tests/"
     }
   },

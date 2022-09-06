@@ -4,9 +4,9 @@ declare(strict_types=1);
 /**
  * happy coding.
  */
-namespace KPC\Circuit\Gate;
+namespace KPC\Components\Gate;
 
-use KPC\Circuit\Wire;
+use KPC\Components\Wire;
 
 abstract class AbstractGate
 {
