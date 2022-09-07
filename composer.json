@@ -4,7 +4,8 @@
     "psr-4": {
       "KPC\\": "src/",
       "Test\\": "tests/"
-    }
+    },
+    "fils": ["src/Utils/functions.php"]
   },
   "require": {
     "php": ">=7.4"

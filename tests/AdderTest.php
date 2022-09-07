@@ -14,6 +14,14 @@ use PHPUnit\Framework\TestCase;
  */
 class AdderTest extends TestCase
 {
+    public function testAdder(){
+
+    }
+
+    protected function TestAdderReturnsCorrectResult(){
+
+    }
+
     public function testHalfAdder()
     {
         $a = new HalfAdder();
