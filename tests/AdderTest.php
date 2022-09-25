@@ -19,7 +19,8 @@ class AdderTest extends TestCase
     }
 
     protected function TestAdderReturnsCorrectResult(){
-
+        $adder = new Adder();
+        $adder->set
     }
 
     public function testHalfAdder()
